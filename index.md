@@ -25,7 +25,7 @@ Roles in:
 - National security, resilience planning, or public-sector innovation
 - Cross-disciplinary research with real-world impact
 
-📄 [View my CV](Sam_Faulstich_CV.pdf)
+📄 [View my CV](faulstich_cv_june_25.pdf)
 
 ---
 
