@@ -9,7 +9,7 @@ After submitting hundreds of job applications and receiving far fewer responses,
 
 I stitched a simple message: *“Hiring? Ask me about my CV”*—and brought it to tech-heavy coffee shops around the Bay Area.
 
-This repo hosts a small website with my CV, background, and links for anyone who followed the thread.
+This repo hosts a small website with my CV, background, and links for anyone who followed the thread. 
 
 ## Live Site
 
